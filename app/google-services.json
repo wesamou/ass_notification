@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382812175411",
+    "project_id": "ass-notification",
+    "storage_bucket": "ass-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382812175411:android:f4a6acf56708713c98f746",
+        "android_client_info": {
+          "package_name": "com.example.ass_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382812175411-gfs74hddnaq3orosvlms8mbgh5j86gp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtumqHzXIfPJy-bfibbW3y0ANLYS81pVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382812175411-gfs74hddnaq3orosvlms8mbgh5j86gp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
